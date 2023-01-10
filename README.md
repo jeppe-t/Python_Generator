@@ -1,6 +1,6 @@
 # Generator.
 
-This is a simple Generator. 
+This is a simple Generator.<br /> 
 Description and explanation of a generator is included in the script.
 
 ## Steps to Setup
