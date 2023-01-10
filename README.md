@@ -1,13 +1,14 @@
-# Decorator.
+# Generator.
 
-This is a simple decorator
+This is a simple Generator. 
+Description and explanation of a generator is included in the script.
 
 ## Steps to Setup
 
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/jeppe-t/Decorator.git
+git clone https://github.com/jeppe-t/Python_Generator.git
 ```
 
 **2. Import libraries**
@@ -24,7 +25,7 @@ or
 
 In terminal: 
 Go to the folder, where the script is located and run: 
-python decorator.py
+python generator.py
 ```
 The app will start running.
 
